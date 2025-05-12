@@ -6,28 +6,35 @@
     <description>Recent content on Beautiful Hugo</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster>
-    <lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <managingEditor>youremail@domain.com (james_byu)</managingEditor>
+    <webMaster>youremail@domain.com (james_byu)</webMaster>
+    <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lrc-beta.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>雾镇</title>
+      <link>https://lrc-beta.vercel.app/post/wuzhen/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate><author>youremail@domain.com (james_byu)</author>
+      <guid>https://lrc-beta.vercel.app/post/wuzhen/</guid>
+      <description>&lt;p&gt;[00:00.000]作词 : 夏之禹&lt;br&gt;&#xA;[00:01.000]作曲 : 夏之禹/MAJOR YAO&lt;br&gt;&#xA;[00:02.000]编曲 : MAJOR YAO&lt;br&gt;&#xA;[00:03.000]制作 : MAJOR YAO&lt;br&gt;&#xA;[00:04.000]录音 : MAJOR YAO&lt;br&gt;&#xA;[00:05.000]混音 : MAJOR YAO&lt;br&gt;&#xA;[00:06.000]母带 : MAJOR YAO&lt;br&gt;&#xA;[00:10.860]难道不算荒谬 Huh&lt;br&gt;&#xA;[00:13.200]随便写上几个段子就能换上几个 W&lt;br&gt;&#xA;[00:16.590]真来一趟他们受不了那脏臭&lt;br&gt;&#xA;[00:19.320]编成故事以后他们赞不绝口&#xA;[00:21.510]对我说你就是贾樟柯&#xA;[00:23.640]这简直是文学艺术不止几首歌&#xA;[00:26.760]Huh这话该怎么说呢那我也不兜着&#xA;[00:29.790]这就是天赋加上努力才会有的收获&lt;/p&gt;</description>
+    </item>
     <item>
       <title>kkluv</title>
       <link>https://lrc-beta.vercel.app/post/2025-03-08-lorem-ipsum/</link>
-      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate><author>youremail@domain.com (james_byu)</author>
       <guid>https://lrc-beta.vercel.app/post/2025-03-08-lorem-ipsum/</guid>
       <description>&lt;p&gt;[00:00.000]作词 : MULA SAKEE/kkluv&lt;br&gt;&#xA;[00:01.000]作曲 : MULA SAKEE/kkluv&lt;br&gt;&#xA;[00:02.000]编曲 : oz&lt;br&gt;&#xA;[00:03.000]母带 : 谭玉堂&lt;br&gt;&#xA;[00:11.470]Heard baby you got that juice baby&lt;br&gt;&#xA;[00:14.120]到底 you gon’ spill on who baby&lt;br&gt;&#xA;[00:17.060]When you say that you luv me I luv you too baby&lt;br&gt;&#xA;[00:20.090]重生的王者 I cannot lose&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
       <link>https://lrc-beta.vercel.app/about/</link>
-      <pubDate>Fri, 26 Apr 2019 20:18:54 +0300</pubDate><author>youremail@domain.com (Some Person)</author>
+      <pubDate>Fri, 26 Apr 2019 20:18:54 +0300</pubDate><author>youremail@domain.com (james_byu)</author>
       <guid>https://lrc-beta.vercel.app/about/</guid>
       <description>&lt;p&gt;我是JB Yeah&lt;/p&gt;</description>
     </item>
     <item>
       <title>About me</title>
       <link>https://lrc-beta.vercel.app/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>youremail@domain.com (james_byu)</author>
       <guid>https://lrc-beta.vercel.app/page/about/</guid>
       <description>&lt;p&gt;我是 JB Yeah&lt;/p&gt;</description>
     </item>
